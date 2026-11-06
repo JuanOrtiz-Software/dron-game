@@ -1,0 +1,96 @@
+# Manifiesto de activos
+
+Recuento por origen: usuario = 0, descargado = 1, procedural = 85.
+
+## Imágenes del usuario
+- Ninguna. `assets/user_tanks/` está vacío.
+
+## Imágenes descargadas
+- `tank_04_normal.png` — File:Old WWI tin toy tank, photo 1.JPG — licencia: CC0 — autor: Alf van Beem — fuente: https://commons.wikimedia.org/wiki/File:Old_WWI_tin_toy_tank,_photo_1.JPG.
+
+## Activos procedurales
+- `background_city.png` — generado localmente por el juego.
+- `logo.png` — generado localmente por el juego.
+- `ground_street.png` — generado localmente por el juego.
+- `ground_grass.png` — generado localmente por el juego.
+- `fog.png` — generado localmente por el juego.
+- `goal_target.png` — generado localmente por el juego.
+- `charging_station.png` — generado localmente por el juego.
+- `charging_0.png` — generado localmente por el juego.
+- `charging_1.png` — generado localmente por el juego.
+- `laser_beam.png` — generado localmente por el juego.
+- `smoke_00.png` — generado localmente por el juego.
+- `smoke_01.png` — generado localmente por el juego.
+- `crash_marker.png` — generado localmente por el juego.
+- `hud_panel.png` — generado localmente por el juego.
+- `button.png` — generado localmente por el juego.
+- `map_frame.png` — generado localmente por el juego.
+- `bar_track.png` — generado localmente por el juego.
+- `bar_progress.png` — generado localmente por el juego.
+- `bar_battery.png` — generado localmente por el juego.
+- `bar_ammo.png` — generado localmente por el juego.
+- `bar_score_red.png` — generado localmente por el juego.
+- `bar_score_blue.png` — generado localmente por el juego.
+- `medal.png` — generado localmente por el juego.
+- `drone_red_0.png` — generado localmente por el juego.
+- `drone_red_1.png` — generado localmente por el juego.
+- `drone_blue_0.png` — generado localmente por el juego.
+- `drone_blue_1.png` — generado localmente por el juego.
+- `mode_01.png` — generado localmente por el juego.
+- `mode_02.png` — generado localmente por el juego.
+- `mode_03.png` — generado localmente por el juego.
+- `building_01.png` — generado localmente por el juego.
+- `building_02.png` — generado localmente por el juego.
+- `building_03.png` — generado localmente por el juego.
+- `building_04.png` — generado localmente por el juego.
+- `building_05.png` — generado localmente por el juego.
+- `building_06.png` — generado localmente por el juego.
+- `tank_01_normal.png` — generado localmente por el juego.
+- `tank_01_destroyed.png` — generado localmente por el juego.
+- `tank_02_normal.png` — generado localmente por el juego.
+- `tank_02_destroyed.png` — generado localmente por el juego.
+- `tank_03_normal.png` — generado localmente por el juego.
+- `tank_03_destroyed.png` — generado localmente por el juego.
+- `car_01_normal.png` — generado localmente por el juego.
+- `car_01_destroyed.png` — generado localmente por el juego.
+- `car_02_normal.png` — generado localmente por el juego.
+- `car_02_destroyed.png` — generado localmente por el juego.
+- `car_03_normal.png` — generado localmente por el juego.
+- `car_03_destroyed.png` — generado localmente por el juego.
+- `pickup_01_normal.png` — generado localmente por el juego.
+- `pickup_01_destroyed.png` — generado localmente por el juego.
+- `pickup_02_normal.png` — generado localmente por el juego.
+- `pickup_02_destroyed.png` — generado localmente por el juego.
+- `pickup_03_normal.png` — generado localmente por el juego.
+- `pickup_03_destroyed.png` — generado localmente por el juego.
+- `truck_01_normal.png` — generado localmente por el juego.
+- `truck_01_destroyed.png` — generado localmente por el juego.
+- `truck_02_normal.png` — generado localmente por el juego.
+- `truck_02_destroyed.png` — generado localmente por el juego.
+- `truck_03_normal.png` — generado localmente por el juego.
+- `truck_03_destroyed.png` — generado localmente por el juego.
+- `helicopter_01_normal.png` — generado localmente por el juego.
+- `helicopter_01_destroyed.png` — generado localmente por el juego.
+- `helicopter_02_normal.png` — generado localmente por el juego.
+- `helicopter_02_destroyed.png` — generado localmente por el juego.
+- `helicopter_03_normal.png` — generado localmente por el juego.
+- `helicopter_03_destroyed.png` — generado localmente por el juego.
+- `explosion_00.png` — generado localmente por el juego.
+- `explosion_01.png` — generado localmente por el juego.
+- `explosion_02.png` — generado localmente por el juego.
+- `explosion_03.png` — generado localmente por el juego.
+- `explosion_04.png` — generado localmente por el juego.
+- `explosion_05.png` — generado localmente por el juego.
+- `explosion_06.png` — generado localmente por el juego.
+- `explosion_07.png` — generado localmente por el juego.
+- `icon_battery.png` — generado localmente por el juego.
+- `icon_ammo.png` — generado localmente por el juego.
+- `icon_nodes.png` — generado localmente por el juego.
+- `icon_steps.png` — generado localmente por el juego.
+- `icon_timer.png` — generado localmente por el juego.
+- `icon_score.png` — generado localmente por el juego.
+- `icon_tank.png` — generado localmente por el juego.
+- `icon_vehicle.png` — generado localmente por el juego.
+- `icon_error.png` — generado localmente por el juego.
+- `icon_cancel.png` — generado localmente por el juego.
+- `icon_drone.png` — generado localmente por el juego.

@@ -1,0 +1,8 @@
+pygame>=2.6.1
+numpy>=1.26,<2.3
+opencv-python-headless>=4.12,<4.13
+scikit-learn>=1.5
+torch>=2.4,<3
+Pillow>=10
+certifi>=2024.8.30
+pytest>=8.3

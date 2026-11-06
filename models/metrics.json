@@ -1,0 +1,90 @@
+{
+  "accuracy": 0.9708333333333333,
+  "labels": [
+    "tank",
+    "vehicle",
+    "empty"
+  ],
+  "confusion_matrix": [
+    [
+      222,
+      18,
+      0
+    ],
+    [
+      0,
+      237,
+      3
+    ],
+    [
+      0,
+      0,
+      240
+    ]
+  ],
+  "per_class": {
+    "tank": {
+      "precision": 1.0,
+      "recall": 0.925,
+      "f1": 0.961038961038961,
+      "support": 240
+    },
+    "vehicle": {
+      "precision": 0.9294117647058824,
+      "recall": 0.9875,
+      "f1": 0.9575757575757575,
+      "support": 240
+    },
+    "empty": {
+      "precision": 0.9876543209876543,
+      "recall": 1.0,
+      "f1": 0.9937888198757764,
+      "support": 240
+    }
+  },
+  "training_samples": {
+    "tank": 800,
+    "vehicle": 800,
+    "empty": 800
+  },
+  "validation_samples": {
+    "tank": 240,
+    "vehicle": 240,
+    "empty": 240
+  },
+  "source_split": {
+    "tank": [
+      "train:procedural:tank_04",
+      "train:procedural:tank_02",
+      "train:procedural:tank_01",
+      "train:downloaded:commons_tank",
+      "validation:procedural:tank_03"
+    ],
+    "vehicle": [
+      "train:procedural:car_01",
+      "train:procedural:helicopter_03",
+      "train:procedural:helicopter_01",
+      "train:procedural:truck_02",
+      "train:procedural:truck_01",
+      "train:procedural:car_03",
+      "train:procedural:pickup_03",
+      "train:procedural:truck_03",
+      "train:procedural:pickup_02",
+      "validation:procedural:car_02",
+      "validation:procedural:pickup_01",
+      "validation:procedural:helicopter_02"
+    ],
+    "empty": [
+      "train:procedural:ground_00",
+      "train:procedural:ground_06",
+      "train:procedural:ground_03",
+      "train:procedural:ground_02",
+      "train:procedural:ground_07",
+      "train:procedural:ground_05",
+      "validation:procedural:ground_04",
+      "validation:procedural:ground_01"
+    ]
+  },
+  "evaluation": "augmentaciones generadas desde sprites fuente excluidos del entrenamiento",
+  "pipeline": "CNN (PyTorch, CPU)"
+}

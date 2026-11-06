@@ -1,0 +1,51 @@
+{
+  "training_date": "2026-11-06T11:36:06-06:00",
+  "pipeline": "CNN (PyTorch, CPU)",
+  "status": "ok",
+  "device": "cpu",
+  "source_sprite_count": {
+    "tank": 5,
+    "vehicle": 12,
+    "empty": 8
+  },
+  "source_manifest": {
+    "tank": [
+      "downloaded:commons_tank",
+      "procedural:tank_01",
+      "procedural:tank_02",
+      "procedural:tank_03",
+      "procedural:tank_04"
+    ],
+    "vehicle": [
+      "procedural:car_01",
+      "procedural:car_02",
+      "procedural:car_03",
+      "procedural:helicopter_01",
+      "procedural:helicopter_02",
+      "procedural:helicopter_03",
+      "procedural:pickup_01",
+      "procedural:pickup_02",
+      "procedural:pickup_03",
+      "procedural:truck_01",
+      "procedural:truck_02",
+      "procedural:truck_03"
+    ],
+    "empty": [
+      "procedural:ground_00",
+      "procedural:ground_01",
+      "procedural:ground_02",
+      "procedural:ground_03",
+      "procedural:ground_04",
+      "procedural:ground_05",
+      "procedural:ground_06",
+      "procedural:ground_07"
+    ]
+  },
+  "user_images_used": 0,
+  "training_samples_per_class": 800,
+  "validation_samples_per_class": 240,
+  "epochs": 80,
+  "metrics_file": "metrics.json",
+  "fallback_file": "vision_sklearn.joblib",
+  "accuracy": 0.9708333333333333
+}
